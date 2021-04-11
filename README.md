@@ -1,4 +1,4 @@
-![1](https://user-images.githubusercontent.com/63411448/114297930-92293480-9aee-11eb-9781-363af728ea0a.jpg)
+<p align="center">![1](https://user-images.githubusercontent.com/63411448/114297930-92293480-9aee-11eb-9781-363af728ea0a.jpg)
 
 
 ### <p align="center"> 🔥Life Moto🔥
