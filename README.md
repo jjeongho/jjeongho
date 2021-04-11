@@ -6,7 +6,7 @@
 ### <p align="center">💻Tech Stack💻
 
 
-<p align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><p align="center"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Android&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Android&logoColor=white"/>
 
 
 <a href="https://velog.io/@jjeongho" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
