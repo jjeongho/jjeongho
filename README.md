@@ -1,6 +1,8 @@
 
 
 ![hi](https://user-images.githubusercontent.com/63411448/114299476-60b46700-9af6-11eb-9141-b7c9a91c2396.gif)
+<p align="right"><img src="https://user-images.githubusercontent.com/63411448/114299476-60b46700-9af6-11eb-9141-b7c9a91c2396.gif">
+
 
 
 ### <p align="center"> 🔥Life Moto🔥
